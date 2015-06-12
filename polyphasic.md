@@ -28,3 +28,18 @@ There are four different types of tests that don't require an account:
 2. Concentration: Rotations
 3. Reasoning: Grammatical Reasoning
 4. Memory: Monkey Ladder
+
+
+References
+----------
+
+Things I read before attempting to change my sleep schedule:
+
+1. [Puredoxyk's
+   blog](http://www.puredoxyk.com/index.php/category/polyphasic/)
+
+2. [Ubersleep: Nap-Based Sleep Schedules and the Polyphasic
+   Lifestyle](http://www.ubersleepbook.com/)
+
+3. [Steve Pavlina's
+   blog](http://www.stevepavlina.com/blog/2005/10/polyphasic-sleep/)
