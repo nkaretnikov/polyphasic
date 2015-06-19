@@ -6,10 +6,14 @@ start taking a few tests on [Cambridge Brain
 Sciences](http://www.cambridgebrainsciences.com/browse/) for two weeks
 before switching to a polyphasic schedule.  While polyphasic, I'm
 planning to continue that for at least four weeks, if I don't give up
-earlier.  Based on various anecdotes, the initial adaptation period
-should take 1 or 2 weeks (to get back to your normal energy levels),
-and it may take up to 2 months to adapt fully (to be able to move naps
-a bit without destroying your schedule completely).
+earlier.  The tests must be taken at the same time of day (somewhere
+in the middle between two naps) to avoid the effects of sleep,
+drowsiness, wakefulness, food, work, exercise, etc.
+
+Based on various anecdotes, the initial adaptation period should take
+1 or 2 weeks (to get back to your normal energy levels), and it may
+take up to 2 months to adapt fully (to be able to move naps a bit
+without destroying your schedule completely).
 
 There are four different types of tests that don't require an account:
 
